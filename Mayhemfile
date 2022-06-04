@@ -1,0 +1,5 @@
+project: the-powder-toy
+target: toarray
+
+cmds:
+  - cmd: /repo/data/ToArray /dev/null /dev/null @@ a
